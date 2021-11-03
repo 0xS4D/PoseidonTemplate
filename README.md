@@ -1,4 +1,4 @@
-# ZeusTemplate
+# PoseidonTemplate
 
 A starter for Solidjs using Vite, Tailwind, Eslint and Solid App Router.
 

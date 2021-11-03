@@ -20,7 +20,7 @@ export default function Socials () {
 
       <a
         target='_blank'
-        href='https://github.com/EtZeta/VitePoseidonTemplate'
+        href='https://github.com/EtZeta/PoseidonTemplate'
         rel='noreferrer'
       >
         <button className='bg-gray-700 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded'>

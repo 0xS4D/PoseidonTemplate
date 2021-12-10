@@ -14,4 +14,4 @@ After the successfull installation of the packages: `yarn dev`
 
 ## Paths
 
-To add new/edit paths edit the `jsconfig.json` file.
+To add new or modify paths edit the `jsconfig.json` file.
